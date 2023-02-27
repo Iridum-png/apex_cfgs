@@ -108,7 +108,7 @@ def autoexec(location, strafe_type):
     if strafe_type == "2 directional strafe":
         execute = "exec 2directionalstrafe1.cfg"
     elif strafe_type == "Neo strafe":
-        execute = "exec neostrafe1.cfg"
+        execute = "exec neostrafe0.cfg"
     else:
         execute = "exec superglide1.cfg"
         
